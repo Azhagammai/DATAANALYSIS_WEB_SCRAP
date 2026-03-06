@@ -1,0 +1,17 @@
+# COVID-19 Pandemic Data Scraping Script Requirements
+# This file specifies all Python package dependencies
+
+# Core data processing library
+pandas>=3.0.0
+
+# HTTP requests library for web scraping
+requests>=2.32.0
+
+# HTML parsing library
+beautifulsoup4>=4.14.0
+
+# XML and HTML processing backend
+lxml>=6.0.0
+
+# HTML5 parser (optional but recommended for better parsing)
+html5lib>=1.1
